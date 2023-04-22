@@ -28,7 +28,7 @@
     "babel-eslint": "10.x",
     "babel-plugin-preval": "^5.0.0",
     "clsx": "^1.1.1",
-    "codemirror": "^5.57.0",
+    "codemirror": "^5.65.12",
     "cssnano": "^4.1.10",
     "debounce": "^1.2.0",
     "dlv": "^1.1.3",
